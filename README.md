@@ -14,15 +14,7 @@ A simple Python-based Morse Code Translator that can **encode English text to Mo
 
 ---
 
-## 📷 Demo
 
-```bash
-Enter a word to convert to Morse Code: hello
-Morse Code: .... . .-.. .-.. ---
-Back to English: HELLO
-```
-
----
 
 ## 🧠 How It Works
 
@@ -32,53 +24,10 @@ Back to English: HELLO
 
 ---
 
-## 📁 Files
 
-- `morse_translator.py`: Main Python script containing the logic for encoding and decoding.
-- `README.md`: Project description and usage guide.
 
----
 
-## 🚀 Getting Started
 
-### 🔧 Requirements
-
-- Python 3.x
-
-### ▶️ Running the Script
-
-```bash
-python morse_translator.py
-```
-
-You will be prompted to enter a word. The script will display:
-- Morse code translation
-- Decoded version back to English
-
----
-
-## 📚 Morse Code Reference
-
-- A → `.-`
-- B → `-...`
-- C → `-.-.`
-- 1 → `.----`
-- 0 → `-----`
-- ... and more
-
----
-
-## 🧑‍💻 Author
-
-**Ramya Manikandan**
-
----
-
-## 📜 License
-
-This project is open-source and free to use under the [MIT License](LICENSE).
-
----
 
 ## 💡 Future Enhancements
 
