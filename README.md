@@ -29,8 +29,4 @@ A simple Python-based Morse Code Translator that can **encode English text to Mo
 
 
 
-## 💡 Future Enhancements
 
-- 🔊 Add beeping sounds for each Morse symbol
-- 🌐 Web-based GUI using Flask or Tkinter
-- 📱 Android app version
